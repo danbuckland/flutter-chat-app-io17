@@ -1,2 +1,8 @@
-# flutter-chat-app-io17
-A recreation of the Memechat app as demonstrated at Google IO 2017
+# memechat
+
+A new flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](http://flutter.io/).

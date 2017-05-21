@@ -1,4 +1,4 @@
-package com.yourcompany.memechat;
+package io.danb.memechat;
 
 import android.os.Bundle;
 
